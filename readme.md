@@ -34,5 +34,5 @@
  * [*Reinforcement Learning: An Introduction*](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981) 
  by Sutton and Barto---the definitive introductory text in reinforcement learning. Easy to read and few prerequisites required.  Long on intuition and short on maths, a perfect first exposure to the topic. 
  [[Amazon](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)]
- [[Free 2nd edition DRAFT](http://incompleteideas.net/book/bookdraft2017nov5.pdf)]
+ [[Free (Draft of 2nd Ed.)](http://incompleteideas.net/book/bookdraft2017nov5.pdf)]
  * [David Silver's UCL RL Course Lectures](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)---Starts at the very beginning. What is reinforcement learning? How does it fit with other related disciplines. Walks through basics of Markov processes (MPs), Markov Reward Processes (MRPs), Markov Decision Processes (MDPs). Introduces basics of policy evaluation and improvement in tabular case: value iteration, policy iteration, TD learning, MC rollouts, Q-learning, SARSA. Then goes into function approximation and the familiar modern tools of DQNs, policy gradient, actor critic, etc. Worderfully delivered. 
