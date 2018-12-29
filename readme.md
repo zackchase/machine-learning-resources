@@ -11,28 +11,34 @@
  [[Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)] 
  [[Free](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)]
 
-## Basic Probability and Stats
+## By Topic
+
+### Basic Probability and Stats
  * [*Seeing Theory* (from Brown) visual/interactive tutorial on basic probability](https://seeing-theory.brown.edu/basic-probability/index.html)
 
-## Information Theory
+### Information Theory
  * [*A Mathematical Theory of Communication*](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), 
  Claude Shannon—the foundational paper in the area, still reads crystal clear.
 
-## Support Vector Machines
+### Support Vector Machines
  * [Patrick Winston's lecture from MIT OpenCourseWare](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
-## Probabilistic Graphical Models
+### Probabilistic Graphical Models
  * [*Probabilistic Reasoning in Intelligent Systems*](https://www.amazon.com/Probabilistic-Reasoning-Intelligent-Systems-Representation/dp/1558604790), Judea Pearl—The classic text on PGMs. Great for getting a feeling of where the ideas came from and to see how they were argued for in a pre-probabilistic AI community but be careful, a lot has changed since 1988.
  * [Mathematical Monk's explanation of the forward-backward algorithm for HMMs](https://www.youtube.com/watch?v=7zDARfKVm7s)
  
-## Deep Learning  
+### Deep Learning  
 
-## Learning Theory
+### Learning Theory
  * [*Understanding Machine Learning*](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132), Shai Shalev-Schwartz and Shai Ben-David—great textbook introducing key ideas of PAC-learning, VC-dimension.
  
-## Reinforcement Learning 
+### Reinforcement Learning 
  * [*Reinforcement Learning: An Introduction*](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981) 
  by Sutton and Barto—the definitive introductory text in reinforcement learning. Easy to read and few prerequisites required.  Long on intuition and short on maths, a perfect first exposure to the topic. 
  [[Amazon](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)]
  [[Free (Draft of 2nd Ed.)](http://incompleteideas.net/book/bookdraft2017nov5.pdf)]
  * [David Silver's UCL RL Course Lectures](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)—Starts at the very beginning. What is reinforcement learning? How does it fit with other related disciplines. Walks through basics of Markov processes (MPs), Markov Reward Processes (MRPs), Markov Decision Processes (MDPs). Introduces basics of policy evaluation and improvement in tabular case: value iteration, policy iteration, TD learning, MC rollouts, Q-learning, SARSA. Then goes into function approximation and the familiar modern tools of DQNs, policy gradient, actor critic, etc. Worderfully delivered. 
+
+
+## Possible organization(?):
+*Within each topic, sub bullet by type of resource / flag types for (i) books, (ii) lecture notes, (iii) videos, (iv) code, (v)blogposts, (vi) foundational/historical papers*
