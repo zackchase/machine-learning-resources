@@ -5,7 +5,9 @@
 
 
 ## More Exhaustive Textbooks 
- * [*Pattern Recognition and Machine Learning*, Christopher Bishop---Probably not the textbook to try to chug through when you're new to the field (will have to survive 100-200 pages before getting to your first practical model and not hands-on, but perhaps the best second textbook, for someone who already knows enough to be dangerous but wants to develop a more rigorous understanding.]
+ * [*Pattern Recognition and Machine Learning*](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), Christopher Bishop---Probably not the textbook to try to chug through when you're new to the field (will have to survive 100-200 pages before getting to your first practical model and not hands-on, but perhaps the best second textbook, for someone who already knows enough to be dangerous but wants to develop a more rigorous understanding. 
+ [[Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)] 
+ [[Free PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)]
 
 ## Basic Probability and Stats
  * [*Seeing Theory* (from Brown) visual/interactive tutorial on basic probability](https://seeing-theory.brown.edu/basic-probability/index.html)
